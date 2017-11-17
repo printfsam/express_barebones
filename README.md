@@ -39,3 +39,9 @@ To Duplicate this repo into a new github repo: https://help.github.com/articles/
 5. `rm -rf old-repo.git`
 6. Now check github, you can clone the repo locally and work on it
 
+
+## Features
+Express
+Angular Js
+Bootstrap
+ejs
