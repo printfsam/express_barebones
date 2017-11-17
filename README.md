@@ -37,4 +37,5 @@ To Duplicate this repo into a new github repo: https://help.github.com/articles/
 3. `git push --mirror git@github.com:xSam42/new_repo.git`
 4. `cd ..` (change dir to parent of old repo)
 5. `rm -rf old-repo.git`
+6. Now check github, you can clone the repo locally and work on it
 
