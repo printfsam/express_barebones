@@ -45,3 +45,7 @@ Express
 Angular Js
 Bootstrap
 ejs
+
+
+Need to install angular: `npm i angular angular-material angular-aria angular-animate angular-message`
+Then Run `npm install`
