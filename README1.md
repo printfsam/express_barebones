@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # express_barebones
 Skelton Express Project
 
@@ -49,3 +50,6 @@ ejs
 
 Need to install angular: `npm i angular angular-material angular-aria angular-animate angular-message`
 Then Run `npm install`
+=======
+First Commit
+>>>>>>> 5ae73028bf828b145acedfdd5d30999002696e34
